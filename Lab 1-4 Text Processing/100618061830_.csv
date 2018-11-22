@@ -1,0 +1,3 @@
+round_epochs,loss,acc,input_shape,output_sequence_length,english_vocab_size,french_vocab_size,learning_rate,rnn_units,embedding_size,dropout,batch_size,epochs
+10,1.20135593759,0.672278533372,(130967, 15),21,200,345,0.001,128,50,0.3,1024,10
+10,2.01020982517,0.519443541044,(130967, 15),21,200,345,0.01,32,200,0.1,1024,10
